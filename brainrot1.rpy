@@ -49,7 +49,7 @@ menu:
             m 1hub "Well, I guess that style of humor isn't for everyone. It can seem a bit repetitive at times and some people prefer a more structured, witty joke."
             m 1eub "Responses to this kind of joke can even seem somewhat pavlovian. When the same soundbyte is repeated over multiple funny shorts/memes, your brain is primed to associate the sound with the feeling of laughter."
             m 1etp "A good example of this would be the 'among us' joke, which began during the pandemic."
-            m 1etp "While originally referring to the video game of the same name, it would sometimes be inserted into completely unrelated jokes for suppoedly no reason."
+            m 1etp "While originally referring to the video game of the same name, it would sometimes be inserted into completely unrelated jokes for supposedly no reason."
             m 4gtp "Even though there was nothing particularly clever about the inclusion of 'among us', it drew on a shared cultural understanding that said phrase was considered funny."
             m 6etd "Memes can also evolve in meaning over time. While 'skibidi' was originally just a referencing a viral song,"
             m 6eud "it is now more commonly used in the context of 'skibidi toilet'(a youtube webseries) or as an all purpose nonsense word."
