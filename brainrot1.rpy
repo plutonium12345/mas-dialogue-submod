@@ -36,7 +36,7 @@ menu:
         "I've heard of it before.":
             m 1hkb "Ah, I thought so - it seems to be a pretty popular topic nowadays."
             m 5ekb "The concept is a bit foreign to me, but I suppose it is an interesting piece of internet culture."
-            m 5wuo "It's a bit controversial, with some finding it helarius and others finding it annoying and repetitive."
+            m 5wuo "It's a bit controversial, with some finding it hilarious and others finding it annoying and repetitive."
             m 1tuc "Quite frankly, I don't know what to make of it."
 
         "brainrot???":
