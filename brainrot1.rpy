@@ -53,5 +53,5 @@ menu:
             m 4gtp "Even though there was nothing particularly clever about the inclusion of 'among us', it drew on a shared cultural understanding that said phrase was considered funny."
             m 6etd "Memes can also evolve in meaning over time. While 'skibidi' was originally just a referencing a viral song,"
             m 6eud "it is now more commonly used in the context of 'skibidi toilet'(a youtube webseries) or as an all purpose nonsense word."
-            m 2eud "Even if I don't find it particularly funny, it still interests me."
+            m 2eud "Though I don't find brainrot particularly funny, it still interests me."
 return
