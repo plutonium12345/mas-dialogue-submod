@@ -1,7 +1,7 @@
 init 5 python:
-    addEvent(Event(persistent.event_database,eventlabel="monika_animation",category=['media','misc'],prompt="Animation",random=True,pool=True,unlocked=True))
+    addEvent(Event(persistent.event_database,eventlabel="monika_animation1",category=['media','misc'],prompt="Animation",random=True,pool=True,unlocked=True))
 
-label monika_animation:
+label monika_animation1:
     m 3rud "Y'know, animation is a very labor intensive artform."
     m 3euo "Even the simplest animation takes a large amount of individual frames."
     m 1dkp "Storyboarding, blocking, lineart, color, shading..."
